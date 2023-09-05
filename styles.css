@@ -181,12 +181,12 @@ background-color: var(--black);
 .btn1:hover{
     width: 41%;
     height: 110%;
-    color: var(--light);
+    color: var(--brown);
 }
 .btn2:hover{
     width: 41%;
     height: 110%;
-    color: var(--light);
+    color: var(--brown);
 }
 .contract{
     display: flex;
@@ -541,7 +541,7 @@ background-color: var(--black);
 }
 .h-info p{
     opacity: 75%;
-    font-size: small;
+    font-size: 90%;
 }
 footer{
     display: flex;
@@ -642,7 +642,7 @@ h2{
     width: auto;
 }
 .end-nav-element p:hover{
-    color: #AF220E;
+    color: var(--light);
 }
 .end-socials-arrow{
     display: flex;
