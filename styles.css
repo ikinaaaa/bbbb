@@ -583,7 +583,7 @@ h2{
 }
 .btn3:hover{
     cursor: pointer;
-    color: var(--light);
+    color: var(--brown);
     width: 34%;
     height: 26%;
 }
@@ -670,7 +670,7 @@ h2{
 }
 .tw-img:hover{
     cursor: pointer;
-    background-image: url(images/tw-red.png);
+    background-image: url(images/tw-after.png);
 }
 .tg-img{
     background-image: url(images/tg.png);
@@ -679,7 +679,7 @@ h2{
 }
 .tg-img:hover{
     cursor: pointer;
-    background-image: url(images/tg-red.png);
+    background-image: url(images/tg-after.png);
 }
 .end-arrow{
     height: 50%;
